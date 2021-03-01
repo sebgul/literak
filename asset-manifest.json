@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/literak/static/css/main.3859bd86.chunk.css",
-    "main.js": "/literak/static/js/main.e51b9fef.chunk.js",
-    "main.js.map": "/literak/static/js/main.e51b9fef.chunk.js.map",
+    "main.css": "/literak/static/css/main.f46b33b4.chunk.css",
+    "main.js": "/literak/static/js/main.d4d04049.chunk.js",
+    "main.js.map": "/literak/static/js/main.d4d04049.chunk.js.map",
     "runtime-main.js": "/literak/static/js/runtime-main.ea7f2da0.js",
     "runtime-main.js.map": "/literak/static/js/runtime-main.ea7f2da0.js.map",
-    "static/js/2.57b75cef.chunk.js": "/literak/static/js/2.57b75cef.chunk.js",
-    "static/js/2.57b75cef.chunk.js.map": "/literak/static/js/2.57b75cef.chunk.js.map",
+    "static/js/2.eb9c2189.chunk.js": "/literak/static/js/2.eb9c2189.chunk.js",
+    "static/js/2.eb9c2189.chunk.js.map": "/literak/static/js/2.eb9c2189.chunk.js.map",
     "index.html": "/literak/index.html",
-    "static/css/main.3859bd86.chunk.css.map": "/literak/static/css/main.3859bd86.chunk.css.map",
-    "static/js/2.57b75cef.chunk.js.LICENSE.txt": "/literak/static/js/2.57b75cef.chunk.js.LICENSE.txt",
+    "static/css/main.f46b33b4.chunk.css.map": "/literak/static/css/main.f46b33b4.chunk.css.map",
+    "static/js/2.eb9c2189.chunk.js.LICENSE.txt": "/literak/static/js/2.eb9c2189.chunk.js.LICENSE.txt",
     "static/media/index.css": "/literak/static/media/Elementarz2.264d0182.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.ea7f2da0.js",
-    "static/js/2.57b75cef.chunk.js",
-    "static/css/main.3859bd86.chunk.css",
-    "static/js/main.e51b9fef.chunk.js"
+    "static/js/2.eb9c2189.chunk.js",
+    "static/css/main.f46b33b4.chunk.css",
+    "static/js/main.d4d04049.chunk.js"
   ]
 }
